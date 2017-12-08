@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 """
-Author: vagrant@domob.cn
+Author: vagrant@xxx.cn
 Created Time: 2016-08-15 09:27:37
 """
 import sys

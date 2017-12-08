@@ -18,5 +18,5 @@ mkdir $SCRATCH_DIR/logs
 # tar包用于自己打包测试
 tar czf $SCRATCH_DIR.tar.gz $SCRATCH_DIR
 # rpm包用于线下/线上的标准化部署
-fpm -s dir -t rpm -n $PNAME -v $VERSION --rpm-defattrfile=0755 --prefix=/usr/local/domob/prog.d $SCRATCH_DIR
+fpm -s dir -t rpm -n $PNAME -v $VERSION --rpm-defattrfile=0755 --prefix=/usr/local/xxx/prog.d $SCRATCH_DIR
 rm -rf $SCRATCH_DIR

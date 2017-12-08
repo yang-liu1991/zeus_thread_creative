@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 """
-Author: liuyang@domob.cn
+Author: liuyang@xxx.cn
 Created Time: 2017-04-11 11:05:09
 Desc : 此类主要的作用为抓取google play和Appstore的信息，用于数据收集。
 """
